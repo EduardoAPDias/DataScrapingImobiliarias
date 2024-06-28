@@ -1,6 +1,6 @@
-# Data Scraping Imobiliárias
+# Data Scraping Imobiliárias (Projeto em andamento)
 
-Este projeto tem como objetivo coletar dados de imóveis de várias imobiliárias por meio de web scraping e armazená-los em um banco de dados PostgreSQL. É útil para análise e visualização de tendências do mercado imobiliário.
+Este projeto tem como objetivo coletar dados de imóveis de várias imobiliárias por meio de web scraping e armazená-los em um banco de dados PostgreSQL.
 
 ## Contexto Acadêmico
 
